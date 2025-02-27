@@ -46,7 +46,6 @@ This project is implemented using **Power BI** to analyze sales data. The goal i
 - Automated data refresh and scheduled updates.
 
 
---
 
 ## Project Overview
 Below are the visual slides from the project presentation:
