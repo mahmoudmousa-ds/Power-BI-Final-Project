@@ -50,7 +50,7 @@ This project is implemented using **Power BI** to analyze sales data. The goal i
 ## Project Overview
 Below are the visual slides from the project presentation:
 
-![Slide 1](output_images/Mahmoud Mosaad Mousa - Power BI Final Project_page-0001.jpg)
+![Slide 1](output_images/Mahmoud%20Mosaad%20Mousa%20-%20Power%20BI%20Final%20Project_page-0001.jpg)
 ![Slide 2](output_images/Mahmoud%20Mosaad%20Mousa%20-%20Power%20BI%20Final%20Project_page-0002.jpg)
 ![Slide 3](output_images/Mahmoud%20Mosaad%20Mousa%20-%20Power%20BI%20Final%20Project_page-0003.jpg)
 ![Slide 4](output_images/Mahmoud%20Mosaad%20Mousa%20-%20Power%20BI%20Final%20Project_page-0004.jpg)
